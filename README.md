@@ -1,1 +1,2 @@
 # Hotel-Management-System-UML
+In this project I tried to create a Hotel Management System using a Unified Modelling Language diagram that visually represent the structure, behavior and interactions of the system components and it also helps to understand the work flow the system by classifying the system into different classes and then further dividing the classes into multiple objects and then corelating them together.
